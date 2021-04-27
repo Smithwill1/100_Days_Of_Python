@@ -14,4 +14,5 @@ quiz.ask_question()
 while quiz.still_has_questions():
     quiz.ask_question()
 
-print(question_bank)
+print("That's the end of the quiz!")
+print(f"Your final score was {quiz.score}/{quiz.question_number}")
