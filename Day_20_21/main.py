@@ -1,3 +1,7 @@
+# TODO: add pause button
+# TODO: add restart button
+# TODO: add high scores
+
 from turtle import Screen
 import time
 from snake import Snake

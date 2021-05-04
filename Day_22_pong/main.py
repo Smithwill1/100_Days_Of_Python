@@ -1,3 +1,7 @@
+# TODO: add pause button
+# TODO: add game over at x amount of points
+# TODO: figure out how to hold keys down
+
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
